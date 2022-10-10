@@ -9,3 +9,8 @@ Sample website with plenty of files for demos
 ## Update
 
 Hello, this is a change to the readme.
+
+## Deployment
+
+Deploy at your own risk
+
