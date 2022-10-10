@@ -5,7 +5,7 @@ Adding content here.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with a ton of files for demos
 
 ## Update
 
@@ -16,3 +16,6 @@ Adding content here.
 
 Deploy at my own risk
 
+## Contribute
+
+My venmo is open, bro.
