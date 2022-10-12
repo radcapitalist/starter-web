@@ -24,3 +24,7 @@ My venmo is open, bro.
 ## License
 
 Requires EWH Enterprises commercial license.
+
+### Copyright
+
+2022 EWH Enterprises
