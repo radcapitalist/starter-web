@@ -6,6 +6,7 @@ Adding content here.
 ## Purpose
 
 Sample website with a ton of files for demos
+More information added to purpose.
 
 ## Update
 
@@ -19,3 +20,7 @@ Deploy at my own risk
 ## Contribute
 
 My venmo is open, bro.
+
+## License
+
+Requires EWH Enterprises commercial license.
