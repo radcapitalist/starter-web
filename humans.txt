@@ -9,6 +9,7 @@
 
     I thought I already changed this.  Not sure what's up.
     But this is a change for rebase example.
+    New line for git stash
 
 # TECHNOLOGY COLOPHON
 
