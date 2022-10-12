@@ -29,7 +29,7 @@ Requires EWH Enterprises commercial license.
 
 ### Copyright
 
-2022 EWH Enterprises
+2022 EWH Enterprises, all rights reserved.
 
 ### Miscellaneous
 
