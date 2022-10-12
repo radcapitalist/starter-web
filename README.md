@@ -19,7 +19,7 @@ Deploy at my own risk
 
 ## Contribute
 
-My venmo is open, bro.
+change at master - fork this repository, issue pull requests
 
 ## License
 
